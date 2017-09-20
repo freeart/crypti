@@ -1,162 +1,161 @@
 {
-	"port": 7040,
-	"address": "0.0.0.0",
-	"serveHttpAPI": true,
-	"serveHttpWallet": true,
-	"version": "0.5.4",
-	"fileLogLevel": "info",
-	"consoleLogLevel": "log",
-	"sharePort": true,
-	"api": {
-		"access": {
-			"whiteList": []
-		}
-	},
-	"peers": {
-		"list": [
-			{
-				"ip": "127.0.0.1",
-				"port": 7040
-			}
-		],
-		"blackList": [],
-		"options": {
-			"timeout": 4000
-		}
-	},
-	"forging": {
-		"secret": [
-			"ddFX32mdxClpVkvOZd",
-			"no2xkMXV8w",
-			"8y3yAmWkNK1P1EVQHB",
-			"qUSXcARVtc",
-			"tQNMbQBTLlKAY51ThaqgYnD8ei4vSaCwp",
-			"nrBSPfHNkc9jB15YdLuSYWgHKna",
-			"AWwBHfmw8qeM5X",
-			"ksKWVn7xm3irhS0Yv18hRDv1yyOu1Vd9o",
-			"w7glbJiJTuhYlSD9sGtCDhPNXTLDFZINCvd3bwy",
-			"xTSGmx",
-			"aBiMc7Im",
-			"23MoNSy",
-			"rq55F",
-			"mwNls9SFJFuRE5uhbHQqaS",
-			"K0GEZks7",
-			"bJxD8BNWVY66cMWU5PvLuX25Exr",
-			"hQ3WyaxYsJvvSKUgBU1",
-			"RWUniz1w4Oj0RRjv5GF1HJb",
-			"sS6BsvWcn25Y",
-			"FiVpBMFWgabRcpZRJ9G",
-			"MIBye5Pj",
-			"29W",
-			"amgKwIVWRTetc0O5FiHfn",
-			"NEpB8JY5grl",
-			"Na40",
-			"TrKRWqycVkE1dUnkW1tmOCWqYkRaG5ttGz",
-			"G3qtfHFytSXe1mLlgdp1wtC3FLlwl6q2Sm7A",
-			"RsUAK9KEccVV2UNft",
-			"QrS41",
-			"DrEsTTpvKCWEbSg5YM32vRIHniXd",
-			"JlzGpKLtuFAdoju9TfmP4EQZAOt",
-			"6boDcvQmmhFs2Fg",
-			"1wtKAHK6KgqmhNOoMp3T",
-			"hkw4RoptX0Oe3q0hj4u9RBi4QyzSu",
-			"PIEbipRQh3LisYU0ITCXuP2iEYlRthiRpa",
-			"t66um6xv2qLf5rRFkJcfaRrvOE7xrJAjnX9sn",
-			"pSo2JZUwGaCwLdEWVk7Tjr4ZEnVBnJcqj8",
-			"WDSStqPE7vrOqzu",
-			"0",
-			"MbGaPgrpfZ7WgPYbvMx",
-			"qF5tQJ7Yz7AP7me",
-			"D5F3cv4np4lN1XhgJ4c4z2db5xCVtwIXASzWf",
-			"xDEGDChvK6l8TAq9ulawX0d2QRN9Xl6z",
-			"OQHabRcmMoaOwprIrkHTi6ouKUhShv8p",
-			"FV96e5qmdWv5CdxgqxvSqk5xh",
-			"kPRJF36M2wblfE5PIN7LO7M03XV",
-			"eEtO9dcnbYQoVJU",
-			"O5",
-			"VJxycU1uQOmo0WqMkljauJY",
-			"ZDiMs1NKzWc9Iulll",
-			"vppv2L",
-			"HavUCdTS7EJuyUmRv65dsvIdQjIqceGp4fizjD",
-			"zzllA",
-			"I2AZa8OFNqyRFl",
-			"8bQhs68Kj9TUM3WR",
-			"ARv5XUv1eqjyELv4tgSjCWIGzcdkY9y",
-			"HwdHy79oiMcaczeSmp",
-			"d1DgVcnlvhBLJqZzIvQgmrZpv7igM85",
-			"cAGXS1tDCIfdgmNmiyDSQPrzu65u",
-			"tFwfWSpH3VE19wG",
-			"Y",
-			"LDOVgRNEjxMqC40QNpSkRl5b4I4Db",
-			"i1DsUgE2jX6letT3CBkBo2nX2",
-			"2UJb5TocURB1WtAgZFOveLAuZDa5artTZMd1",
-			"tv5MIkmpduUBB5uKjmB7IU4cRrVC5A",
-			"moMwe8LpsSwXDAmGT",
-			"wnTrgJPPDsJch0kLlM",
-			"fgCpTaTVoq315O3",
-			"F3",
-			"hC7PFSVW1",
-			"U4oK4trQeo8TMRTKc3nvwAj4mHfNGtai",
-			"caaAR7eUCDYAGzbDB3J0IjxIWfHSa3OMZM",
-			"f3pL285hTCWgDQFQPxFM9Gjad5RH13VD9KQM",
-			"lhsUuJjTSaZC64YgcA8w4f7J2mY80Av0uK0ZgRD",
-			"5JY4yBKq18gdqz7SVTCabxnC1m9VfJx1",
-			"9HVTzkqzQjBKNy",
-			"Q8f1gpwahM7Jq4CrjxszEG7ViiOl6vDslYAqcCHS",
-			"d4As9eqeNJgeQaaF0",
-			"VJSufSt8KjcJjtWq9wDHVftXKbPVi8Mx0cUvg",
-			"tV6fle0G",
-			"85kDEI5MU0q81Q6dsfk9wBGjdR",
-			"Orj",
-			"JVyV0snUcmkR8",
-			"5EbWTfWG6ZcVNfn54WpmbTRB63",
-			"yk6eakVY2wtw1CXYRMbxU8Pid4Ulw",
-			"0ShBqS",
-			"j1SZBrCsZQp",
-			"13SQym9uBKDfC3kZqM0QNYfRbeS3YAD",
-			"zEYEvp11U5CBwTJhbn606vHJTBZc8Vc03Vn",
-			"Bhgwn9FxA2TdCd9T4CwDqXK37hC018P5OavO",
-			"NKoiJzM2REsqTwbpXiToO",
-			"nY5iX2TlU8YBTyFYpQVyXxtvRCH2EI6GC6C6OzK1",
-			"Kqlf9QpQUf0Hx",
-			"FmfyXDLXPZzaDqIp91ARLE3GFK",
-			"Xn",
-			"2qloI5KB2UPZ0AnGgkHVU",
-			"BvcjMNsuN5QcDOt3",
-			"E3aCZOPllrP8oha3LRN9pQ1dU61KY",
-			"DXQjcTg",
-			"GwRr0RlSi",
-			"2LAgOflQnsF2iQ3JEJsMlKCdOXfr286IZTA"
-		],
-		"access": {
-			"whiteList": [
-				"127.0.0.1"
-			]
-		}
-	},
-	"loading": {
-		"verifyOnLoading": false,
-		"loadPerIteration": 5000
-	},
-	"sia": {
-		"peer": {
-			"ip": "127.0.0.1",
-			"port": 9980
-		}
-	},
-	"ssl": {
-		"enabled": false,
-		"options": {
-			"port": 443,
-			"address": "0.0.0.0",
-			"key": "./ssl/crypti.key",
-			"cert": "./ssl/crypti.crt"
-		}
-	},
-	"dapp": {
-		"masterrequired": true,
-		"masterpassword": "",
-		"autoexec": [
-		]
-	}
+  "port": 7040,
+  "address": "0.0.0.0",
+  "serveHttpAPI": true,
+  "serveHttpWallet": true,
+  "version": "0.5.4",
+  "fileLogLevel": "info",
+  "consoleLogLevel": "log",
+  "sharePort": true,
+  "api": {
+    "access": {
+      "whiteList": []
+    }
+  },
+  "peers": {
+    "list": [
+      {
+        "ip": "127.0.0.1",
+        "port": 7050
+      }
+    ],
+    "blackList": [],
+    "options": {
+      "timeout": 4000
+    }
+  },
+  "forging": {
+    "secret": [
+      "gggoO#ciK81irGJv@DMFEF3#mM#vlaBX",
+      "aX^EJG3FB%*8NQEAk1qBNmrZlzgMIS7t",
+      "Y@Z1#J81ETlFZyw7eSpZYBCC%eZToZ2K",
+      "Gy##OFLXirGCwJ7cyaiwhNM2apdwKWcT",
+      "3s7Y$@EhuAsLAgc6B1eA#%SqQSORCPFU",
+      "^Pi9%hvLZ#4sfXpi31AJ5MmIyo7$#WTw",
+      "k^dlaZ4UE90pQ1FNPn^p&55xxrhr3K7#",
+      "pxKrzwOJcsn0gsXDpRwPmAFWG$fSyiNE",
+      "F%F*&IZtrRVz&@OhZI$5Tkn*MUXzO*Ns",
+      "od@DOG&7iid@PBfInUPYEk0zvWfLVUVT",
+      "o23gy#x4jT#LzmKQ90rBcQ4c35hmsc59",
+      "2V%2PEoQeF@T5C#LLUlfFGRfFO#^Hi50",
+      "6&XtMdjFS4Y^NA0ntXx1QYXjgp38*kOR",
+      "8$Dk9YeT5JH4dNp0ZFrYmc3jlnV8SsxS",
+      "qu7A7dowi%G2UMKW9Yv$oDxnnq5oS7Yk",
+      "XXzne4IEHKcAeHo^RlTsuCb3r0IIjQuq",
+      "Lr@8eHez9OqnX8pvq8n1CrHB&Jf1#6gA",
+      "PQ4^Rshy@JcWXqzacb^LEjz^0B&hh%gC",
+      "VTfhx%fKTJPX**1LfF%san4wPTeW4vNs",
+      "XXc^YgC7aF8vyMC%xLUkkJ2@NGCnqp1Z",
+      "CXwZ1gVZ*nfdaRfk5QpYmf0^2T3EkjQv",
+      "hg9p4@n0LdOX0FviMFy3IfORw8^bjbpt",
+      "57x5HsU2%Y2Ti^rWrFIy^0z&lZ0v*T1o",
+      "4ucQgvFTQxUab2DCck@6cui*8ui7aKye",
+      "@ZKmz8vPGWpxdwKYoG%z^Pli6hzYUU@g",
+      "VkZAJ2hHGSxuP2qwpTk9UGswAQFvV&M*",
+      "TNljx*NdcdUOCqoBfgv6wgjd#v#yiSl4",
+      "Sf1p@scijoyxvzK8gKZWlIsZ6FQXPsYE",
+      "Q2Gwrvv$80e8O^$&nFByH033$wEC7lFL",
+      "vzQ*9aPGXV2hVM#g#n&$mHdlaKxeY7N*",
+      "TNJu*MaKK1vDOFETmLN5pG7Bj6Hm#T9Q",
+      "ykC3CDgLAXb27g2YnpnFLueL9nRTJWZ&",
+      "mSVDIUWqIsj74cT^fXlRie9z1W*5K9%n",
+      "D3lvNs9asNe*ccqBlNcE9Bxs$V@N8lrj",
+      "rlDecf45kjEdwtu0bGXvJi0Pi2TOJ*Ea",
+      "%W@dtr^T#jnpWpFlceWyaLfe8CtqUrsI",
+      "@D9Ad@yt#HoN982KHlql4K0rg9E9U7A1",
+      "wpSZiNcBV$lft24ZD2yVc#gHx*4$%3bs",
+      "5TOn8cBeeDg#c9J*XY1$Z6d4NSyct@f%",
+      "cyYVPf4CMCE8^4Yg&YXBawkSF8Nx0AAI",
+      "m^eE&eFS6GS0q&VcG71vkH6Ck2uwwhSE",
+      "BKXdC#jmuNACLlKCJzlaG@wl@zIXC3Ow",
+      "^Pj94V8pOaymgENJJH&43$iqAxVNs#sb",
+      "TFKdyMsK#573BEE5CXaLlTHBT4BY2hUj",
+      "^bIzMQnlo2^lQ7WqW80B^ne*vSC@jVa9",
+      "M^tKH&GgX9eW*DfrhwgtArZ^W9ePZ9Ir",
+      "Om0JZ@M4APNZ4LxiqdZqIBmRpcie6TEs",
+      "*fmGiaH3&9Q#EXUSbTJeTalPJWJ@NrG^",
+      "6t#AJM@2zwWDk#s6T6O4p#iGas%YwG4f",
+      "5vKcQZn#&*Ca@5wETMK$MqMkXefosZao",
+      "05b^%YGhFytuGbKFaLyLnxkQk&RzztA#",
+      "cTt6QGy8k1RytYJveMQY*s47O5$lgPEf",
+      "svdaq^CmlhDmdSzcS%*z4Gw9XGq6%OUD",
+      "Gki1VLy$OfM*6h8sx9ZxZEteqwGB07%w",
+      "7eS#kiN#$lrfZC*aaT&Ux#eQD6G*0Ija",
+      "*LWsw8%Ngqg422Ao%YzQTzJqgT#S#QMr",
+      "fUwTv%DLLW6L#qPp^vuhFCZXEiVjojWW",
+      "iD84Jwk^FQ%6I5BXd4%cX4eut*rjSN3o",
+      "SkuCKeXGiXPLIK9ft#ZfiYY1NhA44E0N",
+      "xhl*zHMpx@AIoI^x85EsF5zYpR$qutCe",
+      "eD&1uDwHGjclS6A#TsVfmgjM2AjncuqS",
+      "r%&3%TfyYu0r9MaStxAIaG6pI7d%IZHq",
+      "Sbzc7x6Z0yP#$$Ru7zs#aCaDX&jm4$&q",
+      "iOpquVcYloMN0XiN#HW8yQMPD21PWw3Z",
+      "i*pgcvri@WzVyclaxGZJcjdaKx%uxsgV",
+      "pSzr2q7njYkegvFfm*y1bjU6lBOOj9eo",
+      "aAvgOIDOYUyNAwP1b0B#$q#M#RY#nvpV",
+      "lfb3MEIv0v5^ZJuS#vdKdOiOeTYL7iBO",
+      "ebrsaVGtwFq*SPZOI2FATXw8utB#QXDT",
+      "&E%8J@ou%FuXEsl7KB*xlO@S4^*5MC3Y",
+      "Nri5p@sWEenfYaGiCBPvW7LpR0rYeYdb",
+      "szgP#kGSNUqEaRGRT#o#GKlrX7GEtH@E",
+      "dnZ5OeP5^j8C42prDEH#lsxGRabuHO&d",
+      "APe@%f6*3PlnRuYujjgs*djoI1H8BENe",
+      "0KdMlluw1^PY3nlCU1f%kvba9e5wv2uC",
+      "dGarRpmURe9^1DUcZM77rZcGhdW%16By",
+      "P^jUida7Y9uJc7PzcOlK5UxKr&NcaXQ3",
+      "rYiWOjSWXXKT$E8S&30N%Dg9CTE1Lq0w",
+      "ZkAdlF4K4%ZFdnWcgOlk1h3ilPXaJ8yu",
+      "w$TPxmPJLtGr$A9lTObY@v%sLacN&95H",
+      "8OY1yUiu#$cG%b9DVY#38dS$fNgU5Xq4",
+      "pHtss0S$&AX3mw^wvW2drv12VNyjlNGD",
+      "acSON%#JT@zi7BldmGPL1qs*O5UPrxkf",
+      "&#dtdRAc0hcdHoeUQX9B8$PxG%avQTc9",
+      "UfbYRTa&wXtib3@HwraucyR1g7bVgRB$",
+      "G#hEzNuKUB2@jmcb5h28mkN^hCo8dm2w",
+      "hLkflIP8J#lx20qhT@JvXTlU6r@RTD63",
+      "osuB*52Yea8eiaDZiH*DYr@$7*Ctqbh1",
+      "9y4PtpcEJWTCb@W@G@#$XKat$%s4@&UP",
+      "iC3ayMPgL4c5kjn9t#w4%CbOe%QSCnMg",
+      "gIl2@L3IaiI4MYOgIeO4$3KVd2jlEr5W",
+      "Wy350Ya@6lIZ$bltE8P9PDy$fXoZ%9jG",
+      "s0TlXnvubVUCzxM8gSBUt9daghC^qwMt",
+      "WMo0vi%$fLAK%e6QeQCSI$r0ttjW^aJ4",
+      "$RsqG%iUZe0LMAjHHdPne5PTq&HklE^w",
+      "g$DMRGeWq8Pf&tIfM4zEWXhaeK$1DdX2",
+      "plKo53AB^OLimq%r*4F1fY0JD9idPOzP",
+      "HU65QV0WpPt195A3XP%F4IpOa*NE#wAc",
+      "gPgye$CO%pDlPm0%#MyXzM8CmvW2WlVr",
+      "zQ^ZcqRTmIcGgv13se*RBs4bRjm6zGPT",
+      "6c93GwmxujwIEkVPtwW%Ns3bemsW#fPd"
+    ],
+    "access": {
+      "whiteList": [
+        "127.0.0.1"
+      ]
+    }
+  },
+  "loading": {
+    "verifyOnLoading": false,
+    "loadPerIteration": 5000
+  },
+  "sia": {
+    "peer": {
+      "ip": "127.0.0.1",
+      "port": 9980
+    }
+  },
+  "ssl": {
+    "enabled": false,
+    "options": {
+      "port": 443,
+      "address": "0.0.0.0",
+      "key": "./ssl/crypti.key",
+      "cert": "./ssl/crypti.crt"
+    }
+  },
+  "dapp": {
+    "masterrequired": true,
+    "masterpassword": "zwpM82PLr9Qt",
+    "autoexec": []
+  }
 }
